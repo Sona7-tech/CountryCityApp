@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/webservice/ApplicationConfig.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/util/ExceptionConstants.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/service/LoginService.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/webservice/CountryWebServices.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/dao/LoginCompanyDao.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/dao/CityDao.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/nbproject/build-impl.xml</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/request/ReqLogin.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/model/LoginCompany.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/impl/LoginCompanyDaoImpl.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/response/RespCountryList.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/service/LoginServiceImpl.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/impl/CityDaoImpl.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/request/ReqUser.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/impl/DBHelper.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/impl/CountryDaoImpl.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/webservice/CityWebServices.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/request/ReqCity.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/response/RespCityList.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/service/CityServiceImpl.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/response/RespLogin.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/service/CityService.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/service/CountryServiceImpl.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/model/Country.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/webservice/LoginWebServices.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/response/RespCity.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/web/META-INF/context.xml</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/response/RespCountry.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/service/CountryService.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/model/City.java</file>
+            <file>file:/C:/project/vfdffdfdfd/CityCountry/src/java/world/country/city/response/RespStatus.java</file>
+        </group>
+    </open-files>
+</project-private>
